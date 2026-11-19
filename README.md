@@ -1,6 +1,3 @@
-# hotel-booking-system
-Hotel Room Booking Management System using HTML CSS JavaScript
-
 # 🏨 StayEase – Hotel Booking Management System
 
 A simple and responsive **Hotel Room Booking Management System** built using HTML, CSS, and JavaScript. This project helps manage hotel rooms, customer bookings, room availability, and booking revenue.
